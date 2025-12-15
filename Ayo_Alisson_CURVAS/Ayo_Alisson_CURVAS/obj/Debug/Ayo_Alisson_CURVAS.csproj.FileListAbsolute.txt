@@ -1,0 +1,13 @@
+C:\Users\MEGAPC\OneDrive\Escritorio\GRAFICA\Parcial2\Ayo_Alisson_CURVAS\Ayo_Alisson_CURVAS\bin\Debug\Ayo_Alisson_CURVAS.exe.config
+C:\Users\MEGAPC\OneDrive\Escritorio\GRAFICA\Parcial2\Ayo_Alisson_CURVAS\Ayo_Alisson_CURVAS\bin\Debug\Ayo_Alisson_CURVAS.exe
+C:\Users\MEGAPC\OneDrive\Escritorio\GRAFICA\Parcial2\Ayo_Alisson_CURVAS\Ayo_Alisson_CURVAS\bin\Debug\Ayo_Alisson_CURVAS.pdb
+C:\Users\MEGAPC\OneDrive\Escritorio\GRAFICA\Parcial2\Ayo_Alisson_CURVAS\Ayo_Alisson_CURVAS\obj\Debug\Ayo_Alisson_CURVAS.csproj.AssemblyReference.cache
+C:\Users\MEGAPC\OneDrive\Escritorio\GRAFICA\Parcial2\Ayo_Alisson_CURVAS\Ayo_Alisson_CURVAS\obj\Debug\Ayo_Alisson_CURVAS.CurvasHome.resources
+C:\Users\MEGAPC\OneDrive\Escritorio\GRAFICA\Parcial2\Ayo_Alisson_CURVAS\Ayo_Alisson_CURVAS\obj\Debug\Ayo_Alisson_CURVAS.Properties.Resources.resources
+C:\Users\MEGAPC\OneDrive\Escritorio\GRAFICA\Parcial2\Ayo_Alisson_CURVAS\Ayo_Alisson_CURVAS\obj\Debug\Ayo_Alisson_CURVAS.csproj.GenerateResource.cache
+C:\Users\MEGAPC\OneDrive\Escritorio\GRAFICA\Parcial2\Ayo_Alisson_CURVAS\Ayo_Alisson_CURVAS\obj\Debug\Ayo_Alisson_CURVAS.csproj.CoreCompileInputs.cache
+C:\Users\MEGAPC\OneDrive\Escritorio\GRAFICA\Parcial2\Ayo_Alisson_CURVAS\Ayo_Alisson_CURVAS\obj\Debug\Ayo_Alisson_CURVAS.exe
+C:\Users\MEGAPC\OneDrive\Escritorio\GRAFICA\Parcial2\Ayo_Alisson_CURVAS\Ayo_Alisson_CURVAS\obj\Debug\Ayo_Alisson_CURVAS.pdb
+C:\Users\MEGAPC\OneDrive\Escritorio\GRAFICA\Parcial2\Ayo_Alisson_CURVAS\Ayo_Alisson_CURVAS\obj\Debug\Ayo_Alisson_CURVAS.exe.config
+C:\Users\MEGAPC\OneDrive\Escritorio\GRAFICA\Parcial2\Ayo_Alisson_CURVAS\Ayo_Alisson_CURVAS\obj\Debug\Ayo_Alisson_CURVAS.Formularios.FrmBSpline.resources
+C:\Users\MEGAPC\OneDrive\Escritorio\GRAFICA\Parcial2\Ayo_Alisson_CURVAS\Ayo_Alisson_CURVAS\obj\Debug\Ayo_Alisson_CURVAS.Formularios.FrmBezier.resources
